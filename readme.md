@@ -61,7 +61,7 @@ Enjoy creating high-quality stickers with ease!
 
 ## 📋 Requirements
 
-- Python 3.x
+- Python 3.9
 - An OpenAI API key
 - CUDA-enabled GPU for image upscaling
 

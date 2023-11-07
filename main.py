@@ -37,7 +37,7 @@ def refine_prompt(prompt):
             # System message to set the context for the AI
             {
                 "role": "system",
-                "content": "Your task is to refine the user prompt. The user is requesting an image to be made with Dall E 3, improve the prompt in order to get excellent results with dalle. The image MUST be a die-cut sticker (we will be removing the background later programmatically). Only reply with the prompt - nothing else. Remember it MUST be a die cut sticker (white border)."
+                "content": "Your task is to refine the user prompt. The user is requesting an image to be made with Dall E 3, improve the prompt in order to get excellent results with dalle. The image MUST be a die-cut sticker. Only reply with the prompt - nothing else. Remember it MUST be a die cut sticker (white border)."
             },
             # The user's original prompt
             {
