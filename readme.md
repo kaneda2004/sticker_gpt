@@ -1,4 +1,14 @@
+<div align="center">
+
 # Die-Cut Sticker GPT
+<img src="https://github.com/kaneda2004/sticker_gpt/assets/4466807/47545897-525a-41f1-91ab-45dc625c9fec" width="30%">
+
+</div>
+
+<div align="left">
+<!-- 
+![20231107124503_e5afaf35-81a2-47d9-ab70-0f7a1fc7d171](https://github.com/kaneda2004/sticker_gpt/assets/4466807/47545897-525a-41f1-91ab-45dc625c9fec)
+--!>
 
 Make ultra high quality die cut stickers automatically with Die-Cut Sticker GPT! 🚀🖼✨
 
