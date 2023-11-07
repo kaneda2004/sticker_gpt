@@ -1,0 +1,9 @@
+openai
+rembg
+Pillow
+requests
+uuid
+numpy
+realesrgan
+basicsr
+termcolor
